@@ -7,7 +7,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from influxdb_client_3 import InfluxDBClient3, Point
 from datetime import datetime
 
-os.environ["INFLUX_TOKEN"] = "kAA4tQKJXaHbMC_BDtKFPW12M_3cFZb1x0PoNRcJmlYJCHd_rULJ1afbj0q0neqb1CEkPE2NDbix-XBUAbKVHw=="
+os.environ["INFLUX_TOKEN"] = "Token"
 os.environ["INFLUX_ORG"] = "Personal Project for Home Lab"
 os.environ["INFLUX_BUCKET"] = "pingLatency"
 os.environ["INFLUX_HOST"] = "https://us-east-1-1.aws.cloud2.influxdata.com"
