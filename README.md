@@ -3,4 +3,5 @@ this repo is mostly the ideas from https://github.com/aidengilmartin/speedtest-t
 thx to the real creator. try to use his version, but failed. So here is my version.
 
 ##required
-a
+Speedtest download from:
+https://www.speedtest.net/apps/cli
