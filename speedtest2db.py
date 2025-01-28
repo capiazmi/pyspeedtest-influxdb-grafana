@@ -11,7 +11,7 @@ DB_RETRY_INTERVAL = int(60) # Time before retrying a failed data upload.
 DB_DATABASE = 'speedtest'
 PRINT_DATA = "False" # Do you want to see the results in your logs? Type must be str. Will be converted to bool.
 
-token = "9eoZ5JBPKRRSBe-9IAl0hNFduE4VhsZa_fhZ2NgxD7S3S_VPQir3pxWiuChvW_9cFxCRkXXPh5bUCUt3srIrDQ=="
+token = ""
 org = "Personal Project for Home Lab"
 host = "https://us-east-1-1.aws.cloud2.influxdata.com"
 
